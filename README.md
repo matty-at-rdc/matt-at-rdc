@@ -3,7 +3,7 @@
 
 <h3 align="left">Here are somethings that you can expect from me:</h3>
 <p align="left">
-  ‣ An interest in Python 🐍, specifically in the areas of tooling, testing, and delivering web based applications. 
+  ‣ An interest in Python 🐍 specifically in the areas of tooling, testing, and delivering web based applications. 
 </p>
 <p align="left">
   ‣ A desire to provide the users of my code with an experience that they don't hate 🥰
